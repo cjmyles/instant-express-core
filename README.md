@@ -1,6 +1,6 @@
-# Instant (Express) API
+# Instant Express Core
 
-Core `instant-express` functionality, including routing, authentication, session, firebase connectivity and utilities.
+Core [`instant-express`](https://github.com/cjmyles/instant-express) functionality, including routing, authentication, session, firebase connectivity and utilities.
 
 **Please note:** this module contains some code that will assist with the creation of a Firebase Functions application. However, you can easily use this module for _any_ Express app, and other database/hosting drivers will be added in the future.
 
@@ -458,11 +458,3 @@ npm run test
 ## License
 
 [MIT](LICENSE)
-
-## Roadmap
-
-- Firebase authentication
-
-## Author's Note
-
-Thanks to [Instant Feedback](https://instantfeedback.com.au) for allowing this package to be published.
