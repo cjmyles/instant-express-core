@@ -1,7 +1,7 @@
 {
   "name": "instant-express-core",
   "version": "0.0.2",
-  "description": "Core [`instant-express`](https://github.com/cjmyles/instant-express) functionality, including routing, authentication, session, firebase connectivity and utilities.",
+  "description": "Core `instant-express` functionality, including routing, authentication, session, utilities and Firebase integration.",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha --require babel-core/register --require babel-polyfill",
